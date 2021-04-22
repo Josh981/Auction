@@ -1,0 +1,18 @@
+body {
+    background: url("https://th.bing.com/th/id/Rc83ca24f945503c4c25f5959f160a28e?rik=H5B7PQAVRx61bA&riu=http%3a%2f%2fwww.sandraoffthestrip.com%2fwp-content%2fuploads%2fSunset-March.jpg&ehk=kHIg79upj3kMRpImvrENVQw%2fwUzsOoGdGX3%2blxGBXFM%3d&risl=&pid=ImgRaw") center cover;
+}
+#header {
+    margin:auto;
+    width: 1000px;
+    height: 200px;
+    background: #fff;
+}
+/*.row {*/
+/*    margin:auto;*/
+/*    width: 980px;*/
+/*    min-height: auto;*/
+/*    background: #000fff;*/
+/*    padding: 10px;*/
+/*    !*border: 1px solid #000000;*!*/
+/*    border-bottom: 1px solid #000000;*/
+/*}*/
